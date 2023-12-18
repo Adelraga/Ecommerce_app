@@ -20,22 +20,22 @@ A new Flutter project.
 
 ## here is my dependencies
 dependencies:
-  cached_network_image: ^3.3.0
-  card_swiper: ^3.0.1
-  cupertino_icons: ^1.0.2
-  curved_navigation_bar: ^1.0.3
-  dartz: ^0.10.1
-  dio: ^5.3.4
-  flutter:
-    sdk: flutter
-  flutter_bloc: ^8.1.3
-  flutter_iconly: ^1.0.2
-  flutter_local_notifications: ^16.2.0
-  flutter_stripe: ^9.5.0+1
-  font_awesome_icon_class: ^0.0.6
-  go_router: ^12.1.1
-  http: 1.1.0
-  modal_progress_hud_nsn: ^0.4.0
+  - cached_network_image: ^3.3.0
+  - card_swiper: ^3.0.1
+  - cupertino_icons: ^1.0.2
+  -curved_navigation_bar: ^1.0.3
+  -dartz: ^0.10.1
+  -dio: ^5.3.4
+  -flutter:
+   - sdk: flutter
+  -flutter_bloc: ^8.1.3
+  -flutter_iconly: ^1.0.2
+  -flutter_local_notifications: ^16.2.0
+  -flutter_stripe: ^9.5.0+1
+  -font_awesome_icon_class: ^0.0.6
+  -go_router: ^12.1.1
+  -http: 1.1.0
+  -modal_progress_hud_nsn: ^0.4.0
 
 dev_dependencies:
   bloc: ^8.1.2
